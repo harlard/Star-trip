@@ -480,9 +480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae481786b539c8d9e88f27daaf196733, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MinSpeed: 10
-  MaxSpeed: 15
-  Accuracity: 0
+  Speed: 1
   Target: {fileID: 1258762378}
 --- !u!1 &134996058
 GameObject:
